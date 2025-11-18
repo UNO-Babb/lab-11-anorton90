@@ -1,0 +1,4 @@
+I decided to put the item numbers between 5 and 50 as that is a pretty reasonable amount for my family.
+It was interesting to see that when I added more checkers, the wait time and idle time went up, but there was no one in the wait line.
+Although when I adjusted the checkers to one, there were 27 waiting and the wait time went up but the idle time went down.
+So adding more checkers seemed to increase the idle time but the wait time seemed to fluctuate.
